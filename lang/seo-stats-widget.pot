@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO stats\n"
+"POT-Creation-Date: 2013-12-23 00:19+0530\n"
+"PO-Revision-Date: 2013-12-23 00:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\blog\\wp-content\\plugins\\seo-stats-"
+"widget\n"
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:38
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:116
+msgid "Google Pagerank"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:42
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:120
+msgid "Google Indexed Pages"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:46
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:124
+msgid "Google Backlinks"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:50
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:128
+msgid "Keywords in Google"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:54
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:132
+msgid "Keywords Cost"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:58
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:136
+msgid "Organic Traffic"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:62
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:140
+msgid "SemRush Rank"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:66
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:144
+msgid "Alexa Rank"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:70
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:148
+msgid "Alexa Backlink"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:74
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:152
+msgid "Dmoz Listing"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:78
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:156
+msgid "Website Load time"
+msgstr ""
+
+#: C:\wamp\www\blog\wp-content\plugins\seo-stats-widget/stats.php:164
+msgid "SEO Stats"
+msgstr ""
